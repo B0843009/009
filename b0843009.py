@@ -31,4 +31,4 @@ for i in range(0,4): #分成4份
         s.remove(val)
 
 for i in player:
-    a(i)
+    a(i) #
